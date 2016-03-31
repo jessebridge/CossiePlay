@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#plan{
+	width: 40%;
+	float: left;
+	margin-left: 30%;
+	margin-top:140px;
+	line-height: 20px
+}
+h1{
+	float: left;
+	margin-left:30% 
+}
